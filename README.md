@@ -13,7 +13,7 @@ Profissional com experiência em diferentes setores de Mercado com foco em alava
 </div> 
 ##
 ### Você também me encontra em:
-&nbsp;<a href="https://br.linkedin.com/in/thiago-|-mota">
+&nbsp;<a href="https://br.linkedin.com/in/thiago-l-mota">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/tmconsultoria20/">
