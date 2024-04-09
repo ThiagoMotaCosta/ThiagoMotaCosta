@@ -3,7 +3,7 @@ Profissional com experiência em diferentes setores de Mercado com foco em alava
 **ThiagoMotaCosta/ThiagoMotaCosta**
 
 - 🔭 Atualmente trabalho na Icatu com Analise de **Dados/Processos** e **Automações**, Criação de **Dashboard** e Indicadores para acompanhamento. 
-- 🌱 Focado em programação em **RStudio**.
+- 🖥️ Focado em programação em **RStudio**.
 - 👯 Trabalho colaborativo no Instagram e Site.
 - 😄 Apaixonado em escutar uma boa música.
 
