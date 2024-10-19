@@ -1,5 +1,8 @@
 ### Thiago Mota
-Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais.
+Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
+
+![My World]("C:\Users\Samsung\Downloads\Github_Perfil.png")
+
 **ThiagoMotaCosta/ThiagoMotaCosta**
 
 - 🔭 Atualmente trabalho na Icatu com Analise de **Dados/Processos** e **Automações**, Criação de **Dashboard** e Indicadores para acompanhamento. 
