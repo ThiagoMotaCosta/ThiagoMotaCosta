@@ -1,8 +1,6 @@
 ### Thiago Mota
 Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
 
-![My World]("C:\Users\Samsung\Downloads\Github_Perfil.png")
-
 **ThiagoMotaCosta/ThiagoMotaCosta**
 
 - 🔭 Atualmente trabalho na Icatu com Analise de **Dados/Processos** e **Automações**, Criação de **Dashboard** e Indicadores para acompanhamento. 
@@ -23,3 +21,7 @@ Profissional com experiência em diferentes setores de Mercado com foco em alava
 &nbsp;<a href="https://www.instagram.com/tmconsultoria20/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
+<p align="left">
+<img src="https://github.com/user-attachments/assets/a78a81c1-f5bb-43c7-b03e-c4934586b461" width="800" />
+</p>
