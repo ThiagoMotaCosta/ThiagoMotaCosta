@@ -6,7 +6,7 @@ Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt='SQL'   />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python'/>&nbsp;&nbsp;
-  &nbsp;&nbsp;<a href="Power_BI/README.md"> <img width='50' height='50' src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt='Power BI'/></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Power_BI/tree/main"> <img width='50' height='50' src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt='Power BI'/></a>&nbsp;&nbsp;&nbsp;
 </div> <br>
 
 **Descrição:**<br>
