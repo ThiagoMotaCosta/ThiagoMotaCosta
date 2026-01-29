@@ -1,5 +1,10 @@
-### Thiago Mota
-Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
+### Thiago Mota [ Em Construção ]
+
+**Objetivo**
+Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a análise de dados voltado a diagnósticos e insights mercadológicos. Entre as ferramentas: SQL [Select, View, Join,...] , Python com bibliotecas correlatas [ Pandas, sckit-learn,...] e Power BI [Power Query, DAX,...]
+
+**Descrição**
+Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração [ Com objetivo de alavancar ainda mais os resultados, cursando Análise de Dados e Inteligência Artificial. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
 
 **ThiagoMotaCosta/ThiagoMotaCosta**
 
