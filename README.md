@@ -1,16 +1,18 @@
-### Thiago Mota [ Em Construção ]
+# Thiago Mota [ Em Construção ]
 
 **Objetivo:**<br>
 Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a análise de dados voltado a diagnósticos e insights mercadológicos. Entre as ferramentas: SQL [Select, View, Join,...] , Python com bibliotecas correlatas [ Pandas, sckit-learn,...] e Power BI [Power Query, DAX,...]
 
+#### Aperte nos ícones abaixo para direcionamento a página
+
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt='SQL'   />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python'/>&nbsp;&nbsp;
+  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/SQL"> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt='SQL'/></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Python/blob/main/README.md">  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python'/></a>&nbsp;&nbsp;
   &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Power_BI/tree/main"> <img width='50' height='50' src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt='Power BI'/></a>&nbsp;&nbsp;&nbsp;
 </div> <br>
 
 **Descrição:**<br>
-Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração [ Com objetivo de alavancar ainda mais os resultados, cursando Análise de Dados e Inteligência Artificial. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
+Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração [ Com objetivo de alavancar ainda mais os resultados, cursando Análise de Dados e Inteligência Artificial ]. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
 
 **ThiagoMotaCosta/ThiagoMotaCosta**
 
