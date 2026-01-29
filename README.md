@@ -7,7 +7,7 @@ Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a 
 
 <div style="display: inline">
   &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/SQL"> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt='SQL'/></a>&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Python/blob/main/README.md">  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python'/></a>&nbsp;&nbsp;
+  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Python/blob/main">  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python'/></a>&nbsp;&nbsp;
   &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Power_BI/tree/main"> <img width='50' height='50' src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt='Power BI'/></a>&nbsp;&nbsp;&nbsp;
 </div> <br>
 
