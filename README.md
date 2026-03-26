@@ -1,4 +1,4 @@
-# Thiago Mota [ Em Construção ]
+# Thiago Mota [ Dados para Negócios ]
 
 **Objetivo:**<br>
 Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a análise de dados voltado a diagnósticos e insights mercadológicos. Entre as ferramentas: SQL [Select, View, Join,...] , Python com bibliotecas correlatas [ Pandas, sckit-learn,...] e Power BI [Power Query, DAX,...]
