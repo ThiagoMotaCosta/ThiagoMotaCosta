@@ -8,7 +8,7 @@ Mostrar aos visitantes alguns trabalhos/construções para resoluções de neces
 <div style="display: inline">
   &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/SQL"> <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt='SQL'/></a>&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Python/blob/main">  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python'/></a>&nbsp;&nbsp;
-  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Power_BI/tree/main"> <img width='50' height='50' src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt='Power BI'/></a>&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<a href="https://github.com/ThiagoMotaCosta/Power_BI/tree/main"> <img width='50' height='50' src="images/power_bi_16_color.svg" alt='Power BI'/></a>&nbsp;&nbsp;&nbsp;
 </div> <br>
 
 **Descrição:**<br>
@@ -25,7 +25,7 @@ Profissional com experiência em diferentes setores de Mercado com foco em alava
 
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/@fabric-msft/svg-icons/dist/svg/Fabric_48.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="images//fabric_20_color.svg" />&nbsp;&nbsp;&nbsp;
 </div> 
 
 ## Conecte-se comigo:
