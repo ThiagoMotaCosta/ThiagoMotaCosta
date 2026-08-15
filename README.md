@@ -1,7 +1,7 @@
 # Thiago Mota [ Dados para Negócios ]
 
 **Objetivo:**<br>
-Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a análise de dados voltado a diagnósticos e insights mercadológicos. Entre as ferramentas: SQL [Select, View, Join,...] , Python com bibliotecas correlatas [ Pandas, sckit-learn,...] e Power BI [Power Query, DAX,...]
+Mostrar aos visitantes alguns trabalhos/construções para resoluções de necessidades empresariais aplicadas com utilização de ferramentas voltadas a análise de dados com diagnósticos e insights mercadológicos. Entre as ferramentas: SQL [Select, View, Join,...] , Python com bibliotecas correlatas [ Pandas, sckit-learn,...] e Power BI [Power Query, DAX,...]
 
 #### Aperte nos ícones abaixo para direcionamento a página
 
@@ -12,14 +12,15 @@ Mostrar aos visitantes alguns trabalhos/construções em ferramentas voltadas a 
 </div> <br>
 
 **Descrição:**<br>
-Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics e MBA em Gestão de Processos com Bacharelado em Administração [ Com objetivo de alavancar ainda mais os resultados, cursando Análise de Dados e Inteligência Artificial ]. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
+Profissional com experiência em diferentes setores de Mercado com foco em alavancar os Resultados Empresariais. Pós Graduado em Ciência de dados e Big Analytics com MBA em Gestão de Processos e Estratégia de Negócio como diferenciais [ Com objetivo de alavancar ainda mais os resultados, cursando Análise de Dados e Inteligência Artificial ]. A inspiração está nos desafios Organizacionais e a motivação está no aprendizado e oportunidade de networking com profissionais diferenciados.
 
 **ThiagoMotaCosta/ThiagoMotaCosta**
 
-- 🔭 Atualmente trabalho na Icatu com Analise de **Dados/Processos** e **Automações**, Criação de **Dashboard** e Indicadores para acompanhamento. 
-- 🖥️ Focado em programação em **RStudio**, **Python**
+- 🔭 Atualmente trabalho com Analise de **Dados/Processos** e **Automações**, Criação de **Dashboard** e Indicadores para acompanhamento.
+- 🎯 Focado em soluções **Data-Driven** para necessidades empresariais.
+- 🖥️ Utilização de **SQL**, **Python** e **Fabric - em desenvolvimento**
 - 📈 Apresentações e Indicadores em **Power BI**.
-- 👨‍💻👩‍💻 Trabalho colaborativo no Instagram e Site.
+- 👨‍💻👩‍💻 Trabalho colaborativo com soluções coletivas.
 - 😄 Apaixonado em escutar uma boa música.
 
 <div style="display: inline">
